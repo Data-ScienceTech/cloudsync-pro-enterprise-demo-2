@@ -63,7 +63,8 @@
       "success": "Thank you! We'll get back to you soon.",
       "error": "Please fill in all required fields."
     },
-    "address": "789 Innovation Drive, Tech Valley, CA 94025"
+    "address": "789 Innovation Drive, Tech Valley, CA 94025",
+    "hours": "24/7 Support Available"
   },
   "about": {
     "title": "About Us",
