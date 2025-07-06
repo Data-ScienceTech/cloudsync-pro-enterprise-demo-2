@@ -62,7 +62,8 @@
       "submit": "Send Message",
       "success": "Thank you! We'll get back to you soon.",
       "error": "Please fill in all required fields."
-    }
+    },
+    "address": "789 Innovation Drive, Tech Valley, CA 94025"
   },
   "about": {
     "title": "About Us",
