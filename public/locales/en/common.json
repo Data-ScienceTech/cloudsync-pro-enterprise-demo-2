@@ -112,5 +112,8 @@
     "facebook": "https://facebook.com/cloudsyncpro",
     "twitter": "https://twitter.com/cloudsyncpro",
     "linkedin": "https://linkedin.com/company/cloudsyncpro"
+  },
+  "logo": {
+    "alt": "CloudSync Pro - Enterprise SaaS Platform"
   }
 }
